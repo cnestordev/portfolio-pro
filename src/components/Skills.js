@@ -33,6 +33,7 @@ function Skills() {
               <p>JavaScript</p>
               <p>React</p>
               <p>EJS</p>
+              <p>Pug</p>
               <p>Bootstrap</p>
               <p>Styled-Components</p>
             </Stack>
